@@ -1,6 +1,6 @@
 # Portfolio - Adama THIAM
 
-Portfolio personnel développé en HTML, CSS et JavaScript.
+Portfolio personnel développé en HTML 5, CSS 3 et JavaScript.
 
 ## Technologies utilisées
 
